@@ -1,0 +1,56 @@
+.card {
+    font-family: Tahoma;
+}
+.pol1 {
+    background: wheat;
+    color: purple;
+}
+.pol2 {
+    color: purple;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Сайт главного нефора</title>
+    <style>
+        body {
+            background: #797878;
+        }
+    </style>
+    <img src="https://sun9-77.userapi.com/impg/-byHoMDHBMwY-h9Uw35zrecJtcF1M-gAq-LQpg/sRAM36-gTj4.jpg?size=729x694&quality=96&sign=01688a66caba2d0e684bdad7c9b540af&type=album" width="500" alt="">
+    <h1>Это ебейший сайт самого пиздатого нефора</h1>
+    <br>
+    <div class="card pol1">
+    <p><h2>Хуй знает что про него можно сказать он просто нефор SSS+ ранга</h2></p>
+    </div>
+    <img src="https://sun9-46.userapi.com/impg/GwExh1MQ3v_HwepB9PaD0pitgG2N0a2XjVVFdg/CnFRQxwRnI4.jpg?size=810x1080&quality=96&sign=50cf9afb1556a5af918eee4af6ba63d2&type=album" width="400" alt="">
+    <hr color="purple">
+    <img src="https://sun9-69.userapi.com/impg/Kkj3czjOqSSStYaep_zF9xvjTd1ahNKs-wnPdA/JxbjRv4_qlE.jpg?size=810x1080&quality=96&sign=4a7eb3c0919d31e0c9a139334b0c1c6b&type=album" width="400" alt="">
+    <div class="pol2">
+        <h3>Я реально хуй знает что тут писать</h3>
+    </div>
+    <br>
+    <br>
+    <br>
+    <hr color="purple">
+    <br>
+    <br>
+    <p><h4>Скоро этот полуфабрикат получит пизды за проколотые уши</h4></p>
+    <img src="https://sun9-67.userapi.com/impg/KIKe7h6fMWB9-nDdbBYl1a3K_5tWCkOmaUP9fg/_rS7PhBhZQ4.jpg?size=810x1080&quality=96&sign=d7407e33edd02cf5f82e9618dfea50a3&type=album" width="400" alt="">
+    <br>
+    <br>
+    <br>
+    <hr color="purple">
+    <div class="pol3">
+        <p><h3>НУ И ВСЁ НАХУЙ Я НЕ ЗНАЮ ЧТО ПИСАТЬ</h3></p>
+    </div>
+    <img src="https://sun9-33.userapi.com/impg/mH-l4rhBb0xP2ApQQ0UK35e0I8iI8FX3reWfcw/q-nt8SsLxR0.jpg?size=810x1080&quality=95&sign=7268b39626c6e0e2059e192e79397ae6&type=album" width="400" alt="">
+    
+</head>
+<body>
+    
+</body>
+</html>
